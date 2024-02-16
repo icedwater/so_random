@@ -1,0 +1,1 @@
+bar_chart_race @ git+https://github.com/dexplo/bar_chart_race@5930c3138a597d30c7d345379f5c1329ba68a035
